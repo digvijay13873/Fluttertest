@@ -1,7 +1,5 @@
-on:
-  push:
-    branches:
-      - flutterflow
+on: [push, pull_request]
+  
 
 name: Android App Flutterflow
 jobs:
