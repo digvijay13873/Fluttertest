@@ -1,7 +1,7 @@
 on:
   push:
     branches:
-      - flutterflow
+      - main
 
 name: Android App
 jobs:
